@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read pesan / message
-global.autobio = true 
+global.autobio = false 
 
 //language
 //Available in indonesia , english & spanyol 
@@ -24,12 +24,12 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "Bot-Repas" //namabot kalian
+global.ownername= "Repas Awikwok" //nama kalian
+global.myweb ="https://instagram.com/repassyahputra?igshid=YmMyMTA2M2Y=" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/MarsCraftXD" //bebas asal jan hapus
+global.github = "https://www.facebook.com/RepaaaaaS" //bebas
+global.email = "4m4gai@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62887435047326'] //premium user
