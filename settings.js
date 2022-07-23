@@ -24,29 +24,29 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Bot-Repas" //namabot kalian
-global.ownername= "Repas Awikwok" //nama kalian
-global.myweb ="https://instagram.com/repassyahputra?igshid=YmMyMTA2M2Y=" //bebas asal jan hapus
+global.botname = "M4RSBOT-RETURN" //namabot kalian
+global.ownername= "MarsCraft XD." //nama kalian
+global.myweb ="https://marscraftxd.my.id" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/MarsCraftXD" //bebas asal jan hapus
-global.github = "https://www.facebook.com/RepaaaaaS" //bebas
+global.github = "https://www.facebook.com/12.M4RET.2007" //bebas
 global.email = "4m4gai@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6282196899618'] //premium user
-global.owner = ["6282196899618","6281275734247","6283141380608"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6281275734247" // nomor wa kalian
-global.ownernomerr = "+6281275734247" //nmr wa kalian
+global.owner = ["6282196899618","628970390396","6283141380608"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6282196899618" // nomor wa kalian
+global.ownernomerr = "+6282196899618" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Bot-Repas' //sticker wm ubah
-global.author = 'Mangsud Amat Deck' //sticker wm ganti nama kalian
+global.packname = '© M4RSBOT-RETURN' //sticker wm ubah
+global.author = 'marscraftxd.my.id' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 300
 }
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
